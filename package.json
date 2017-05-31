@@ -1,0 +1,26 @@
+{
+  "name": "dog1",
+  "version": "1.0.0",
+  "description": "new dog",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UrsaMaior/Dog1.git"
+  },
+  "keywords": [
+    "dog"
+  ],
+  "author": "Ursa Maior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UrsaMaior/Dog1/issues"
+  },
+  "homepage": "https://github.com/UrsaMaior/Dog1#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
